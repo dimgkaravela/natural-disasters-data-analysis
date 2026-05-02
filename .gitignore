@@ -1,0 +1,19 @@
+# Java build output
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+*.iml
+
